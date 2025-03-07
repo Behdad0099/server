@@ -1,8 +1,9 @@
-{
- "ip": "GameZone-mvtD.aternos.me:50635",
- "port": "50635",
- "name": "Nokhodi",  
- "auto-night-skip": "false",
- "loginmsg": "ana bot"
-}
 
+{
+  "ip": "GameZone-mvtD.aternos.me",
+  "port": "50635",
+  "name": "Nokhodi",  
+  "auto-night-skip": false,
+  "loginmsg": "ana bot",
+  "version": "1.16.5"
+}
