@@ -5,3 +5,8 @@ run = "node index.js"
 localPort = 3000
 externalPort = 80
 description = "Minecraft Bot Web Interface"
+
+[[ports]]
+localPort = 3001
+externalPort = 3001
+description = "Express Server"
