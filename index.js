@@ -24,7 +24,6 @@ setTimeout(() => {
 
     // Don't call app.listen as mineboty is already using port 3000
     console.log('Express routes added to existing web server on port 3000');
-    console.log('Access bot status at: https://GameZone-mvtD.repl.co/status');
-    console.log('Main bot web interface: https://GameZone-mvtD.repl.co');
+    console.log('Access bot status at: http://yourrepl.repl.co/status');
 }, 5000);
 
